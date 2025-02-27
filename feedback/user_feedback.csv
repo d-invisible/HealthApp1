@@ -1,0 +1,12 @@
+User_ID,Food_Item,Meal_Type,Feedback
+user1,Butter,Breakfast,Like
+user1,Rice,Lunch,Like
+user1,Rice,Lunch,Like
+user1,Orange,Dinner,Dislike
+user1,Potato,Snack,Dislike
+user1,Orange Juice,Dinner,Dislike
+user1,Bread,Breakfast,Like
+user1,Orange,Breakfast,Like
+user1,Milk,Dinner,Like
+user1,Rice,Breakfast,Like
+user1,Orange Juice,Dinner,Dislike
